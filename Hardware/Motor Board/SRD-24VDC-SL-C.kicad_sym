@@ -6,7 +6,7 @@
     (property "Value" "SRD-24VDC-SL-C" (id 1) (at -5.08 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "Motor Board:SRD-24VDC-SL-C" (id 2) (at 0 0 0)
+    (property "Footprint" "RELAY_SRD-05VDC-SL-C" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)

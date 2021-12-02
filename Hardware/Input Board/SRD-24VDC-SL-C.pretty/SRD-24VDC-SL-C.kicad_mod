@@ -1,6 +1,6 @@
 (footprint "SRD-24VDC-SL-C" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61A4F892)
+  (tedit 61A8EE05)
   (attr through_hole)
   (fp_text reference "REF**" (at -6.62563 -8.83584) (layer "F.SilkS")
     (effects (font (size 1.000094 1.000094) (thickness 0.15)))
@@ -28,7 +28,7 @@
   (pad "COM" thru_hole circle (at -8.1 0) (size 1.935 1.935) (drill 1.29) (layers *.Cu *.Mask) (tstamp 6ea0f2f7-b064-4b8f-bd17-48195d1c83d1))
   (pad "NC" thru_hole circle (at 6.1 -6) (size 1.98 1.98) (drill 1.32) (layers *.Cu *.Mask) (tstamp 46491a9d-8b3d-4c74-b09a-70c876f162e5))
   (pad "NO" thru_hole circle (at 6.1 6) (size 1.98 1.98) (drill 1.32) (layers *.Cu *.Mask) (tstamp cdfb661b-489b-4b76-99f4-62b92bb1ab18))
-  (model "/Users/acwright/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/Sherline CNC Conversion/Sherline-CNC-Conversion/CAD/SRD-05VDC-SL-C.step"
+  (model "/Users/acwright/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/Sherline CNC Conversion/Sherline-CNC-Conversion/CAD/SRD-24VDC-SL-C.step"
     (offset (xyz 9 7.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

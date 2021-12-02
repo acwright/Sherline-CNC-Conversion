@@ -1,4 +1,4 @@
-19769260813407576
+19770896358801019
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -49335,6 +49335,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DIN5-RA-PTH
+DIN5-RA-PTH
+DIN5/180 CONNECTOR - RIGHT ANGLE FEMALE
+DIN5/180 CONNECTOR - RIGHT ANGLE FEMALE
+0
+7
+7
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -56951,13 +56958,6 @@ ESP8266 WiFi microcontroller
 0
 16
 16
-Motor Board
-SRD-24VDC-SL-C
-
-
-0
-5
-5
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -77552,6 +77552,13 @@ rotary encoder
 0
 5
 4
+SRD-24VDC-SL-C
+SRD-24VDC-SL-C
+
+
+0
+5
+5
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
