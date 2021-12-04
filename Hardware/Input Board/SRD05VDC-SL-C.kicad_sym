@@ -1,12 +1,12 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "SRD-24VDC-SL-C" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "SRD-05VDC-SL-C" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "K" (id 0) (at -5.08 5.842 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "SRD-24VDC-SL-C" (id 1) (at -5.08 -10.16 0)
+    (property "Value" "SRD-05VDC-SL-C" (id 1) (at -5.08 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "RELAY_SRD-05VDC-SL-C" (id 2) (at 0 0 0)
+    (property "Footprint" "SRD-05VDC-SL-C:SRD-05VDC-SL-C" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -18,7 +18,7 @@
     (property "MANUFACTURER" "SONGLE RELAY" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (symbol "SRD-24VDC-SL-C_0_0"
+    (symbol "SRD-05VDC-SL-C_0_0"
       (polyline
         (pts
           (xy -5.08 -7.62)
